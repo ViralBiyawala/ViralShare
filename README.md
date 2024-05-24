@@ -27,6 +27,9 @@ ViralShare is a lightweight peer-to-peer file sharing application that allows us
 By using ViralShare, you agree to the terms of the MIT License. You are free to use the software for personal use only. You are not permitted to modify or distribute the software without explicit permission from the owner. If you wish to contribute or modify the software, please contact the owner for permission.
 
 ## Contributors
+- [Biyawala Viral Deven](https://github.com/ViralBiyawala)
+- [Shivam Sikotra](https://github.com/ShivamSikotra11)
+- [Patel Shyam](https://github.com/shyam2024)
 
 ## Contributing
 
