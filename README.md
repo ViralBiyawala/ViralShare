@@ -50,6 +50,6 @@ To start using ViralShare, follow these simple steps:
   - [Shivam Sikotra](https://github.com/ShivamSikotra11)
   - [Patel Shyam](https://github.com/shyam2024)
 
-## For contributions or modifications, please contact the [Biyawala Viral Deven](https://github.com/ViralBiyawala).
+## For contributions, please contact the [Biyawala Viral Deven](https://github.com/ViralBiyawala).
 
 That's it! You're now ready to use ViralShare to share and download files securely with other users on your network. If you encounter any issues or have feedback, feel free to reach out to the owner for support.
