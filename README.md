@@ -6,40 +6,49 @@ ViralShare is a lightweight peer-to-peer file sharing application designed to fa
 
 To start using ViralShare, follow these simple steps:
 
-### 1. Download the Application
+### 1. Create the Executable
 
-- Navigate to the [Releases](https://github.com/yourusername/ViralShare/releases) page of the ViralShare GitHub repository.
-- Locate the latest release version (e.g., v1.0.0) and click on it to view the release details.
-- Download the ViralShare executable file (ViralShare.exe) by clicking on the download link provided in the assets section.
+- Make sure you have Python installed on your system. You can download it from the official Python website.
+
+- Open a terminal or command prompt.
+
+- Download the `ViralShare.py` and `build_executable.py` scripts to your local machine.
+
+- Run the following command to create the executable:
+   ```python build_executable.py```
+
+- This will install executable file `ViralShare.exe` in `dict` folder, and copy and paste it to your desired location.
 
 ### 2. Installing and Running ViralShare
 
 - Once the download is complete, locate the downloaded ViralShare.exe file on your computer.
 - Double-click on the ViralShare.exe file to launch the application.
+- A terminal window will also open along with file sharing interface, displaying all information and error logging that happens live while running application.
+- Two logging files, `access.log` and `error.log`, will be created at the same level as the application file.
 
 ### 3. Setting Up Your Server
 
 - Upon launching ViralShare, you will be prompted to set up your server. Enter a port number and a password for your server. This will allow other users to connect to your server and share files.
 - Click on the "Start Server" button to initiate your server.
 
-### 4. Connecting to Other Peers
+### 5. Connecting to Other Peers
 
 - To connect to other peers, you'll need their server information, including their host address, port number, and password.
 - Enter the host address, port number, and password of the peer you want to connect to in the provided fields.
 - Click on the "Connect to Peer" button to establish a connection with the peer.
 
-### 5. Sharing Your Files
+### 6. Sharing Your Files
 
 - ViralShare allows you to share files from a specific folder on your computer.
-- all files that need to be share must be in the folder `share` on the same level of application file.
+- All files that need to be shared must be in the folder `share` on the same level as the application file, which will be automatically build when you start the server.
 - Click on the "List Files" button to view the files available for sharing from your designated share folder.
 
-### 6. Downloading Files from Peers
+### 7. Downloading Files from Peers
 
 - To download files shared by other connected peers, click on the "List All Files" button.
 - This will display a list of files shared by other peers connected to your server.
-- Enter the filename you want to download in download box and hit download button.
-- The download file will be store into the `download` folder on the same level of application file.
+- Enter the filename you want to download in the download box and hit the download button.
+- The downloaded file will be stored in the `download` folder on the same level as the application file, which will be automatically build when you start the server.
 
 ## Additional Features
 
@@ -50,6 +59,6 @@ To start using ViralShare, follow these simple steps:
   - [Shivam Sikotra](https://github.com/ShivamSikotra11)
   - [Patel Shyam](https://github.com/shyam2024)
 
-## For contributions, please contact the [Biyawala Viral Deven](https://github.com/ViralBiyawala).
+## For contributions, please contact [Biyawala Viral Deven](https://github.com/ViralBiyawala).
 
 That's it! You're now ready to use ViralShare to share and download files securely with other users on your network. If you encounter any issues or have feedback, feel free to reach out to the owner for support.
