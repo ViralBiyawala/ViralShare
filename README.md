@@ -31,19 +31,19 @@ To start using ViralShare, follow these simple steps:
 - Upon launching ViralShare, you will be prompted to set up your server. Enter a port number and a password for your server. This will allow other users to connect to your server and share files.
 - Click on the "Start Server" button to initiate your server.
 
-### 5. Connecting to Other Peers
+### 4. Connecting to Other Peers
 
 - To connect to other peers, you'll need their server information, including their host address, port number, and password.
 - Enter the host address, port number, and password of the peer you want to connect to in the provided fields.
 - Click on the "Connect to Peer" button to establish a connection with the peer.
 
-### 6. Sharing Your Files
+### 5. Sharing Your Files
 
 - ViralShare allows you to share files from a specific folder on your computer.
 - All files that need to be shared must be in the folder `share` on the same level as the application file, which will be automatically build when you start the server.
 - Click on the "List Files" button to view the files available for sharing from your designated share folder.
 
-### 7. Downloading Files from Peers
+### 6. Downloading Files from Peers
 
 - To download files shared by other connected peers, click on the "List All Files" button.
 - This will display a list of files shared by other peers connected to your server.
